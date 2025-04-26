@@ -1,0 +1,27 @@
+.equipment-detail-table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0 0.5rem;
+    margin-top: 1rem;
+    font-size: 1.07rem;
+  }
+  
+  .equipment-detail-table td {
+    padding: 0.7rem 1rem;
+  }
+  
+  .detail-label {
+    color: #6b7280;
+    font-weight: 500;
+    width: 40%;
+    background: #f3f4f6;
+    border-radius: 0.4rem 0 0 0.4rem;
+  }
+  
+  .detail-value {
+    color: #1f2937;
+    font-weight: 600;
+    background: #fff;
+    border-radius: 0 0.4rem 0.4rem 0;
+  }
+  
